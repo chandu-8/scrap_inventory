@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+venv/
+inventory.db
+cutlist.xlsx
+LAD cutlist-2.xlsx
